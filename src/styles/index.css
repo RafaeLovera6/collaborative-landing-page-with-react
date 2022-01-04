@@ -10,3 +10,25 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+ #jmbd1 {
+    height: 500px; background-image: url(https://raw.githubusercontent.com/mortegac/collaborative-grupo16/e894ed07187c68beb8b6cc45daf00b2c8b7cd4ec/website1/assets/img/bg.jpg); 
+    background-size:cover;background-repeat: no-repeat;background-position: center; }
+
+#jmbh1 {
+    background: white; 
+    font-weight: bolder;
+}
+#jmbh3 {
+    background: white;
+}
+
+#pfd1 {
+    width: 24rem;
+}
+#pfd2 {
+    width: 24rem;
+}
+#pfd3 {
+    width: 24rem;
+}
+
